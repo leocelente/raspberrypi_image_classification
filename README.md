@@ -1,6 +1,6 @@
 # TensorFlow Lite Python classification example with Pi Camera
 ## My notes
-NOTE:: Pillow and numpy installation on Raspberry-Pi requires some dependencies that are no automatic. Refer to [this issue](https://github.com/numpy/numpy/issues/14532#issuecomment-549165359) and [this issue](https://github.com/python-pillow/Pillow/issues/3077#issuecomment-469078718)
+NOTE:: Pillow and numpy installation on Raspberry-Pi requires some dependencies that are not automatic. Refer to [this issue](https://github.com/numpy/numpy/issues/14532#issuecomment-549165359) and [this issue](https://github.com/python-pillow/Pillow/issues/3077#issuecomment-469078718)
 
 
 This example uses [TensorFlow Lite](https://tensorflow.org/lite) with Python
